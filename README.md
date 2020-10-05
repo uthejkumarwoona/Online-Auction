@@ -18,11 +18,9 @@ Auto-increment amount - A dollar amount that the computer algorithm will add to 
 
 Here is the data to use for your testing. In each case the algorithm should determine the winning bidder and the amount of the winning bid. The bidders are listed in the order they entered their information on the site. If there is a tie between two or more bidders, the first person that entered their information wins. The amount of the winner's bid should be the lowest amount possible (given all the previous rules) that will win the auction.
 
-
-		Auction One -
-Record player	Auction Two -
-Snow shoes	Auction Three -
-Piano
+Auction One -Record player	
+Auction Two -Snow shoes	
+Auction Three -Piano
 				
 Bidder: Linda				
 	Starting bid	$170	$30	$20,000
@@ -39,8 +37,4 @@ Bidder: Eric
 	Max bid	$240	$90	$70,000
 	Auto-increment amount	$4	$2	$8,000
 
-Finally, when completing this assignment please keep the following values in mind:
-1.	Self-documenting code
-2.	Immutability
-3.	Readability
-4.	Simplicity
+
